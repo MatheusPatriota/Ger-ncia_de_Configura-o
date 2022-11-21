@@ -63,7 +63,7 @@ Para a execução do projeto devemos utilizar o seguinte comando:
 
 Para rodar os testes do projeto execute o comando:
 
-	python manage.py test
+	python3 manage.py test
 
 ## Arquivos de Configuração
 
